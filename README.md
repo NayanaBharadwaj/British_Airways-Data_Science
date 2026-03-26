@@ -10,6 +10,7 @@ This repository contains my completed work for the British Airways
 Data Science Job Simulation on Forage. The simulation involved two 
 independent tasks, both based on real business problems faced by 
 British Airways' data and planning teams.
+A certificate of completion was issued by Forage on March 25th, 2026.
 
 ---
 
@@ -98,7 +99,7 @@ re-engagement strategies rather than a single global campaign.
 - **Machine Learning** - Random Forest, cross-validation, 
   feature engineering
 - **Excel** - openpyxl, formula-driven models
-- **Presentation** - PowerPoint executive summary
+- **Reporting** — Excel lookup models, written justification
 
 ---
 
@@ -107,3 +108,7 @@ re-engagement strategies rather than a single global campaign.
 British Airways Data Science Job Simulation  
 Issued by Forage - March 25th, 2026  
 Enrolment Verification Code: `yrLfF9w9QNBdBvsfH`
+
+---
+## 🔗 Connect
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nayana-agrahara-dattatri-06761614a/))
