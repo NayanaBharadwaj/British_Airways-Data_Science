@@ -111,4 +111,4 @@ Enrolment Verification Code: `yrLfF9w9QNBdBvsfH`
 
 ---
 ## 🔗 Connect
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nayana-agrahara-dattatri-06761614a/))
+[LinkedIn]([https://www.linkedin.com/in/nayana-agrahara-dattatri-06761614a/])
