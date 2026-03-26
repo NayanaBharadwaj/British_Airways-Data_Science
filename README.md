@@ -105,5 +105,5 @@ re-engagement strategies rather than a single global campaign.
 ## 📜 Certificate
 **Nayana Agrahara Dattatri**  
 British Airways Data Science Job Simulation  
-Issued by Forage — March 25th, 2026  
+Issued by Forage - March 25th, 2026  
 Enrolment Verification Code: `yrLfF9w9QNBdBvsfH`
